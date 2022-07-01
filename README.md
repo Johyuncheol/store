@@ -1,5 +1,5 @@
 # shop 페이지 제작중 
-https://johcode.tistory.com/
+제작 기록 https://johcode.tistory.com/
 
 ### 주요기능 
     <li>상품 상세 페이지</li>
