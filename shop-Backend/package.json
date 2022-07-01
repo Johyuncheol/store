@@ -1,0 +1,24 @@
+{
+  "name": "shop-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^14.2.0",
+    "eslint": "^8.7.0",
+    "esm": "^3.2.25",
+    "esn": "^2.0.27",
+    "koa": "^2.13.4",
+    "koa-bodyparser": "^4.3.0",
+    "koa-router": "^10.1.1",
+    "mongoose": "^6.1.7",
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "start": "node -r esm src",
+    "start:dev": "nodemon --watch src/ -r esm src/main.js"
+  }
+}
